@@ -6,19 +6,34 @@ Xcos is a very powerful and open source block-based modeling and simulation syst
 Starting from the basic concepts, the book gradually builds advanced concepts, making it suitable for freshmen and professionals. 
 The book consists of the following 15 chapters:
 Chapter1: Introduction to Xcos
+
 Chapter 2: Sources Palette
+
 Chapter 3: Sinks Palette
+
 Chapter 4: Mathematical Operations Palette
+
 Chapter 5: Matrix Operation Palette
+
 Chapter 6: Signal Routing Palette
+
 Chapter 7: Event Handling Palette
+
 Chapter 8: Integer Palette
+
 Chapter 9: Continuous Time Systems Palette
+
 Chapter 10: Discrete Time Systems Palette
+
 Chapter 11: Discontinuities Palette
+
 Chapter 12: Port and Subsystem Palette
+
 Chapter 13:  User-Defined Functions Palette and Construction of a New Block
+
 Chapter 14:  Illustrative Solutions of Differential Equations using Xcos
+
 Chapter 15: Modelica based blocks in Xcos
+
 
 The book is available on kdp.amazon.com
